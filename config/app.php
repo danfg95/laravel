@@ -230,6 +230,4 @@ return [
     ],
 
     'key' => env('APP_KEY', 'SomeRandomStringSomeRandomString'),
-
-    'cipher' => 'AES-128-CBC',
 ];
