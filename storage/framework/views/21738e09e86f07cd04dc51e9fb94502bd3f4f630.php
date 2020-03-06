@@ -1,0 +1,1 @@
+<h1>Hola, <?php echo e($user->name); ?> </h1><?php /**PATH C:\Users\danielfernandezgarci\Desktop\login\resources\views/users.blade.php ENDPATH**/ ?>
